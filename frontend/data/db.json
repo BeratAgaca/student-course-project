@@ -1,0 +1,12 @@
+{
+    "students": [
+        {"text": "berat"},
+        {"text": "ali"},
+        {"text": "veli"}
+    ],
+    "courses": [ 
+        {"text": "UX"},
+        {"text": "Web"},
+        {"text": "Vue"}
+    ]
+}
